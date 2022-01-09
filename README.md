@@ -84,7 +84,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 
 <!--special-china start-->
 <h3 align="center">Platinum Sponsors (China)</h3>
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center" valign="middle">
